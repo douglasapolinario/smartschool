@@ -1,1 +1,1 @@
-web: java -jar target/*smartschool.jar
+web: java -Dswarm.http.port=$PORT -jar target/*smartschool.jar
