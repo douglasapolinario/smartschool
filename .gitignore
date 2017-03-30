@@ -1,0 +1,13 @@
+/target
+.classpath
+.project
+.settings
+*.class
+/bin
+*.*~
+src/main/webapp/WEB-INF/classes
+/neo4j-home
+.env
+.idea/
+*.iml
+
